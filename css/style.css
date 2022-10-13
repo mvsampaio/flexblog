@@ -2,3 +2,6 @@
 
 /* Menu informativo */
 @import "./superinfo.css";
+
+/* Menu principal */
+@import "./menu.css";

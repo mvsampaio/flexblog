@@ -15,3 +15,6 @@
 
 /* Seção - Qualidade */
 @import "./qualidade.css";
+
+/* Seção Newsletter e Rodapé */
+@import "./footer.css";

@@ -1,21 +1,21 @@
-@import "./reset.css";
-@import "./cores.css";
+@import "./global/reset.css";
+@import "./global/cores.css";
 
 /* Cabeçalho */
-@import "./superinfo.css";
-@import "./header.css";
+@import "./header/superinfo.css";
+@import "./header/header.css";
 
 /* Seção - Sobre */
-@import "./sobre.css";
+@import "./sections/sobre.css";
 
 /* Seção - Produtos */
-@import "./produtos.css";
+@import "./sections/produtos.css";
 
 /* Seção - Preço */
-@import "./preco.css";
+@import "./sections/preco.css";
 
 /* Seção - Qualidade */
-@import "./qualidade.css";
+@import "./sections/qualidade.css";
 
 /* Seção Newsletter e Rodapé */
-@import "./footer.css";
+@import "./footer/footer.css";

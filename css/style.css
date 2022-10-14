@@ -9,3 +9,6 @@
 
 /* Seção - Produtos */
 @import "./produtos.css";
+
+/* Seção - Preço */
+@import "./preco.css";

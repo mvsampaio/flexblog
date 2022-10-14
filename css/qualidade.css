@@ -12,7 +12,7 @@
 
 .qualidade-item h2 {
   font-size: 2.25em;
-  color: #a4a4a4;
+  color: var(--cor-2);
   margin-bottom: 20px;
 }
 
@@ -25,19 +25,19 @@
 }
 
 .qualidade-item:nth-of-type(3n + 1) h2::before {
-  background: #ae81ff;
+  background: var(--cor-7);
 }
 
 .qualidade-item:nth-of-type(3n + 2) h2::before {
-  background: #f9265e;
+  background: var(--cor-8);
 }
 
 .qualidade-item:nth-of-type(3n + 3) h2::before {
-  background: #66d9eb;
+  background: var(--cor-4);
 }
 
 .qualidade-item p {
   font-size: 1.5em;
   line-height: 1.4;
-  color: #7c7c7c;
+  color: var(--cor-3);
 }

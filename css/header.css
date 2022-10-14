@@ -1,5 +1,5 @@
 .menu-bg {
-  background: #2c70ff;
+  background: var(--cor-5);
 }
 
 .menu {
@@ -13,7 +13,7 @@
 }
 
 .menu a {
-  color: white;
+  color: var(--cor-0);
 }
 
 .menu-logo {
@@ -35,5 +35,5 @@
 }
 
 .menu-nav a:hover {
-  color: #122ab2;
+  color: var(--cor-6);
 }

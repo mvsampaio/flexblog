@@ -12,3 +12,6 @@
 
 /* Seção - Preço */
 @import "./preco.css";
+
+/* Seção - Qualidade */
+@import "./qualidade.css";

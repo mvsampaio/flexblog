@@ -1,7 +1,11 @@
 @import "./reset.css";
 
-/* Menu informativo */
+/* Cabeçalho */
 @import "./superinfo.css";
+@import "./header.css";
 
-/* Menu principal */
-@import "./menu.css";
+/* Seção - Sobre */
+@import "./sobre.css";
+
+/* Seção - Produtos */
+@import "./produtos.css";
